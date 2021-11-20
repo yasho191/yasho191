@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[My Kaggle Profile](https://www.kaggle.com/yashowardhanshinde)
+<h2 align="center"> Hi there 👋 </h2>
 
 I am Yashowardhan Shinde , I am an aspiring engineer with a lot of interest in Machine Learning, Deep Learning and Data Science. I am a curious person, a quick learner. I am good at writing code in Python and C++ , I have command over python libraries like numpy, pandas, sklearn and deep learning frameworkds like Keras and Tensorflow.
 
