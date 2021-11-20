@@ -4,7 +4,7 @@
 
 I am Yashowardhan Shinde , I am an aspiring engineer with a lot of interest in Machine Learning, Deep Learning and Data Science. I am a curious person, a quick learner. I am good at writing code in Python and C++ , I have command over python libraries like numpy, pandas, sklearn and deep learning frameworkds like Keras and Tensorflow.
 
-<img align="right" alt="GIF" src="https://github.com/" width="360"/>
+<img align="right" alt="GIF" src="https://github.com/yasho191/yasho191/blob/master/ai_animated.gif" width="360"/>
 
 <br>
 
@@ -16,6 +16,7 @@ I am Yashowardhan Shinde , I am an aspiring engineer with a lot of interest in M
 - 📫 How to reach me: Contact me  at yashowardhanshinde@gmail.com
 - ⚡ Fun fact: I can't work without music.
 
+<br> <br>
 <h2 align="center">Find me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/yashowardhan-shinde-1636971b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
