@@ -10,7 +10,7 @@ I am Yashowardhan Shinde , I am an aspiring engineer with a lot of interest in M
 
 - 🔭 I’m currently working on a Self-Supervised Learning.
 - 🌱 I’m currently learning Generative Adveserial Network and Graph Neural Networks.
-- 👯 I’m looking to collaborate on Sports Analysis project related to football.
+- 👯 I’m looking to collaborate on implementing SOTA Deep Learning Research Papers.
 - 🤔 I’m looking for help with Generative Adveserial Network.
 - 💬 Ask me about Machine Learning, Deep Learning, Computer Vision.
 - 📫 How to reach me: Contact me  at yashowardhanshinde@gmail.com
