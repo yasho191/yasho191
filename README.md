@@ -23,8 +23,10 @@ I am Yashowardhan Shinde , I am an aspiring engineer with a lot of interest in M
   <a href="mailto:yashowardhanshinde@gmail.com?subject=Hello%20Yashowardhan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/yasho_1921/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://yasho-blogs.netlify.app/home" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+   <a href="https://www.kaggle.com/yashowardhanshinde" target="blank"><img height = 35 width = 60 src="https://github.com/yasho191/yasho191/blob/master/kaggle-logo-transparent-300.png" /> </a>
 </p>
 
+<h4 align="center"> I am Familiar With </h4>
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
