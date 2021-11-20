@@ -1,16 +1,41 @@
 ### Hi there 👋
 
-[My LinkedIn Profile](https://www.linkedin.com/in/yashowardhan-shinde-1636971b1/)
-
 [My Kaggle Profile](https://www.kaggle.com/yashowardhanshinde)
 
-I am Yashowardhan Shinde , I am an aspiring engineer with a lot of interest in Machine Learning and Data Science. I am a curious person, a quick learner, team player and I have good technical and communication skills. I am good at writing code in Python and C++ , I have command over python libraries like numpy and pandas. I like competetive coding and I am a 6 star coder on HackerRank. 
+I am Yashowardhan Shinde , I am an aspiring engineer with a lot of interest in Machine Learning, Deep Learning and Data Science. I am a curious person, a quick learner. I am good at writing code in Python and C++ , I have command over python libraries like numpy, pandas, sklearn and deep learning frameworkds like Keras and Tensorflow.
 
-- 🔭 I’m currently working on a Sports Analysis project.
-- 🌱 I’m currently learning Data Analysis and Data Visualization using Python and R.
+<img align="right" alt="GIF" src="https://github.com/" width="360"/>
+
+<br>
+
+- 🔭 I’m currently working on a Self-Supervised Learning.
+- 🌱 I’m currently learning Generative Adveserial Network and Graph Neural Networks.
 - 👯 I’m looking to collaborate on Sports Analysis project related to football.
-- 🤔 I’m looking for help with Data Visualization and Data Analysis using R.
-- 💬 Ask me about OpenCV, Pandas, IBM Cloud.
+- 🤔 I’m looking for help with Generative Adveserial Network.
+- 💬 Ask me about Machine Learning, Deep Learning, Computer Vision.
 - 📫 How to reach me: Contact me  at yashowardhanshinde@gmail.com
 - ⚡ Fun fact: I can't work without music.
+
+<h2 align="center">Find me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/yashowardhan-shinde-1636971b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yashowardhanshinde@gmail.com?subject=Hello%20Yashowardhan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/yasho_1921/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://yasho-blogs.netlify.app/home" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+</p>
 
