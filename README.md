@@ -6,10 +6,10 @@ I am Yashowardhan Shinde , I am an aspiring engineer with a lot of interest in M
 
 <br>
 
-- 🔭 I’m currently working on a Self-Supervised Learning.
-- 🌱 I’m currently learning Generative Adveserial Network and Graph Neural Networks.
+- 🔭 I’m currently working on a Multimodal Genneration and Alignment.
+- 🌱 I’m currently learning Image and Video Diffusion.
 - 👯 I’m looking to collaborate on implementing SOTA Deep Learning Research Papers.
-- 🤔 I’m looking for help with Generative Adveserial Network.
+- 🤔 I’m looking for help with LLMs.
 - 💬 Ask me about Machine Learning, Deep Learning, Computer Vision.
 - 📫 How to reach me: Contact me  at yashowardhanshinde@gmail.com
 - ⚡ Fun fact: I can't work without music.
