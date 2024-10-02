@@ -1,12 +1,12 @@
 <h2 align="center"> Hi there 👋 </h2>
 
-I am Yashowardhan Shinde , I am an aspiring engineer with a lot of interest in Machine Learning, Deep Learning and Data Science. I am a curious person, a quick learner. I am good at writing code in Python and C++ , I have command over python libraries like numpy, pandas, sklearn and deep learning frameworkds like Keras and Tensorflow.
+I am Yashowardhan Shinde, I am an aspiring engineer with a lot of interest in Machine Learning, Deep Learning and Data Science. I am a curious person, a quick learner. I am good at writing code in Python and C++, I have command over Python libraries like numpy, pandas, sklearn and deep learning frameworkds like PyTorch and Tensorflow.
 
 <img align="right" alt="GIF" src="https://github.com/yasho191/yasho191/blob/master/ai_animated.gif" width="360"/>
 
 <br>
 
-- 🔭 I’m currently working on a Multimodal Genneration and Alignment.
+- 🔭 I’m currently working on a Multimodal Generation and Alignment.
 - 🌱 I’m currently learning Image and Video Diffusion.
 - 👯 I’m looking to collaborate on implementing SOTA Deep Learning Research Papers.
 - 🤔 I’m looking for help with LLMs.
